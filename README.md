@@ -87,6 +87,3 @@ Planning an AI solution or a SaaS product? I'll review your requirements and rec
 
 📩 [rimshahassan607@gmail.com](mailto:rimshahassan607@gmail.com) · 🌐 [Portfolio](https://rimsha-portfolio-bay.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/rimsha-hassan-946748284)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RimshaHassan&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
